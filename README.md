@@ -16,6 +16,9 @@
  
  
  
+[twitter]: https://www.linkedin.com/in/daidh152001/
+[facebook]: https://www.facebook.com/dohuudai2001
+[instagram]: https://www.instagram.com/ddaij2001/
 
 <!---
 daidh152001/daidh152001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
