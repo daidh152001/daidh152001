@@ -22,7 +22,7 @@
  
  <br />
  
-[twitter]: https://www.linkedin.com/in/daidh152001/
+[twitter]: https://www.linkedin.com/in/daidh152001
 [facebook]: https://www.facebook.com/dohuudai2001
 [instagram]: https://www.instagram.com/ddaij2001/
 
