@@ -1,9 +1,18 @@
- 👋 Hi, I’m Do Huu Dai. I would like people call me [Dai AI][website]
+ 👋 Hi, 
+ ------------
+ Welcome to my personal Github
+ 
+ 
+ I’m Do Huu Dai.
+ I would like people call me 
+ [Dai AI][website]
  
  ### I'm a developer, student, football player, ...
  
  👀 I’m interested in Football and Music
+ 
  🌱 I’m currently learning Artificial Intelligence in FPT University.
+ 
  💞️ I’m looking to collaborate on ...
  
  ### Spotify Playing 🎧
