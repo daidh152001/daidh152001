@@ -1,15 +1,9 @@
- [![animated](https://raw.githubusercontent.com/donavon/donavon/master/img/readme.svg)](https://dwe.st/rr)
- 
- 👋 Hi, 
+👋 Hi, 
  ------------
  Welcome to my personal Github
- 
- <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=ddaij2001">
- 
- 
+
  I’m Do Huu Dai.
- I would like people call me 
- [Dai AI][website]
+ I would like people call me Dai AI][website]
  
  ### I'm a developer, student, football player, ...
  
