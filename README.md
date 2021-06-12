@@ -4,6 +4,8 @@
  ------------
  Welcome to my personal Github
  
+ <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=ddaij2001">
+ 
  
  I’m Do Huu Dai.
  I would like people call me 
@@ -30,6 +32,8 @@
  
  ### Languages and Tools:
  [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
+ 
+ 
  
  <br />
  
