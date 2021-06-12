@@ -1,4 +1,5 @@
-👋 Hi, 
+👋 Hi, I'm Do Huu Dai - Artificial Intelligence Engineer.
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://img.shields.io/twitter/url?color=1DA1F2&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fddaij2001%2F)
  ------------
  Welcome to my personal Github
 
@@ -23,9 +24,10 @@
   [<img align="left" alt="ddaij2001 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
  
  <br />
- 
+ https://img.shields.io/twitter/url?color=1DA1F2&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fddaij2001%2F
  ### Languages and Tools:
- [<img align="left" alt="Visual Studio Code" width="26px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
+ [<img align="left" alt="Visual Studio Code" width="26px"
+       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
  
  
  
