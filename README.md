@@ -1,18 +1,19 @@
 👋 Hi, I'm Do Huu Dai - Artificial Intelligence Engineer.
-[![Twitter Follow](https://img.shields.io/twitter/url?color=1DA1F2&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fddaij2001%2F)](https://img.shields.io/twitter/url?color=1DA1F2&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fddaij2001%2F)
- ------------
- Welcome to my personal Github
 
- I’m Do Huu Dai.
+<!-- [![Twitter Follow](https://img.shields.io/twitter/url?color=1DA1F2&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fddaij2001%2F)](https://img.shields.io/twitter/url?color=1DA1F2&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fddaij2001%2F) -->
+ ------------
+
  I would like people call me [Dai AI][website]
  
  ### I'm a developer, student, football player, ...
  
- 👀 I’m interested in Football and Music
+ 🌱 I’m currently learning Artificial Intelligence in FPT University.And I'm a Third-year student.
  
- 🌱 I’m currently learning Artificial Intelligence in FPT University.
+ 👀 I’m interested in ⚽ Football and 🎵 Music
  
- 📄 &nbsp;Please have a look at my [Curriculum vitae][website] for more details about me. I'm open to feedback and suggestions!
+ 📄 &nbsp;Please have a look at my [Curriculum Vitae][website] for more details about me. I'm open to feedback and suggestions!
+ 
+ 📧 If you have any offers or agreements, please contact me by email: daidh152001@gmail.com. I hope that I will reply to you as soon as possible.
 
  
  
