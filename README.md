@@ -25,7 +25,7 @@
  
  ### 📫 Connect with me:
   [<img align="left" alt=" dohuudai2001| Facebook" width="22px" src="https://en.facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png" />][facebook]
-  [<img align="left" alt=" daidh152001 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+  [<img align="left" alt=" daidh152001 | LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" />][linkedin]
   [<img align="left" alt="ddaij2001 | Instagram" width="22px" src="https://cloud.githubusercontent.com/assets/1809268/15931032/2792427e-2e56-11e6-831e-ffab238cc4a2.png" />][instagram]
  
  <br />
