@@ -20,11 +20,9 @@
  ### 📫 Connect with me:
   [<img align="left" alt=" dohuudai2001| Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
   [<img align="left" alt=" daidh152001 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-  [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-  [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+  [<img align="left" alt="ddaij2001 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
  
  <br />
- https://img.shields.io/twitter/url?color=1DA1F2&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fddaij2001%2F
  
  
  ### Languages and Tools:
@@ -44,8 +42,8 @@
 
  <br />
  
-[twitter]: https://www.linkedin.com/in/daidh152001
-[facebook]: https://www.facebook.com/dohuudai2001
+[twitter]: https://www.linkedin.com/in/daidh152001/
+[facebook]: https://www.facebook.com/dohuudai2001/
 [instagram]: https://www.instagram.com/ddaij2001/
 
 <!---
