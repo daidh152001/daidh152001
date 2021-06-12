@@ -4,7 +4,7 @@
  Welcome to my personal Github
 
  I’m Do Huu Dai.
- I would like people call me Dai AI][website]
+ I would like people call me [Dai AI][website]
  
  ### I'm a developer, student, football player, ...
  
