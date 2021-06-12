@@ -1,5 +1,5 @@
 👋 Hi, I'm Do Huu Dai - Artificial Intelligence Engineer.
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://img.shields.io/twitter/url?color=1DA1F2&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fddaij2001%2F)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ddaij2001?color=1DA1F2&logo=twitter&style=for-the-badge)](https://img.shields.io/twitter/url?color=1DA1F2&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fddaij2001%2F)
  ------------
  Welcome to my personal Github
 
