@@ -12,7 +12,7 @@
  
  🌱 I’m currently learning Artificial Intelligence in FPT University.
  
- 📄 &nbsp;Please have a look at my [Resume]<!--(https://i.topcv.vn/dohuudai?ref=3972969)--> for more details about me. I'm open to feedback and suggestions!
+ 📄 &nbsp;Please have a look at my [Curriculum vitae][website] for more details about me. I'm open to feedback and suggestions!
 
  
  
@@ -51,7 +51,7 @@
 [facebook]: https://www.facebook.com/dohuudai2001/
 [instagram]: https://www.instagram.com/ddaij2001/
 [linkedin]: www.linkedin.com/in/daidh152001/
-
+[website]: https://i.topcv.vn/dohuudai?ref=3972969/
 
 ### ⚙️ &nbsp;GitHub Analytics
 
