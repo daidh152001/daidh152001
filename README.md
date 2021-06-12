@@ -12,6 +12,9 @@
  
  🌱 I’m currently learning Artificial Intelligence in FPT University.
  
+ 📄 &nbsp;Please have a look at my [Resume]<!--(https://i.topcv.vn/dohuudai?ref=3972969)--> for more details about me. I'm open to feedback and suggestions!
+
+ 
  
  ### Spotify Playing 🎧
 
