@@ -17,14 +17,15 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="DaiAI Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
  
+ 
+ <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+ 
  ### 📫 Connect with me:
   [<img align="left" alt=" dohuudai2001| Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
   [<img align="left" alt=" daidh152001 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
   [<img align="left" alt="ddaij2001 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
  
  <br />
- 
- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
  
  ### Languages and Tools:
  
@@ -47,6 +48,17 @@
 [facebook]: https://www.facebook.com/dohuudai2001/
 [instagram]: https://www.instagram.com/ddaij2001/
 [linkedin]: www.linkedin.com/in/daidh152001/
+
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/huuphat99">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=huuphat99&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=huuphat99&layout=compact&langs_count=8&theme=algolia" />
+  </a>
+</p>
+
 
 <!---
 daidh152001/daidh152001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
