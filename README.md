@@ -52,7 +52,7 @@
 [facebook]: https://www.facebook.com/dohuudai2001/
 [instagram]: https://www.instagram.com/ddaij2001/
 [linkedin]: www.linkedin.com/in/daidh152001/
-[website]: https://i.topcv.vn/dohuudai?ref=3972969/
+[website]: https://daidh152001.github.io/
 
 ### ⚙️ &nbsp;GitHub Analytics
 
